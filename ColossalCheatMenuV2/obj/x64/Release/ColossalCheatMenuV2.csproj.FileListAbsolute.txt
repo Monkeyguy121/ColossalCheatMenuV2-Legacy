@@ -1,0 +1,458 @@
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/ColossalCheatMenuV2.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/ColossalCheatMenuV2.pdb
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/0Harmony.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Assembly-CSharp.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/BepInEx.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/BepInEx.Harmony.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/BepInEx.Preloader.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/DevExpress.Data.v22.2.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/GTAG_NotificationLib.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/HarmonyXInterop.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Mono.Cecil.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Mono.Security.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/MonoMod.RuntimeDetour.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/MonoMod.Utils.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Oculus.VR.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Photon3Unity3D.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonChat.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonRealtime.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonUnityNetworking.Demos.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonUnityNetworking.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonUnityNetworking.Utilities.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonVoice.API.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonVoice.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonVoice.PUN.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonWebSocket.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PlayFab.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/SteamVR.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/System.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.Animation.Rigging.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.Burst.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.InputSystem.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.XR.Interaction.Toolkit.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AccessibilityModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AIModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AndroidJNIModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AnimationModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ARModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AssetBundleModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AudioModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ClothModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ClusterInputModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ClusterRendererModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.CoreModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.CrashReportingModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.DirectorModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.DSPGraphModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.GameCenterModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.GridModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ImageConversionModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.IMGUIModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.InputLegacyModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.InputModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.JSONSerializeModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.LocalizationModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ParticleSystemModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.PerformanceReportingModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.Physics2DModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.PhysicsModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ScreenCaptureModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SharedInternalsModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SpatialTracking.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SpriteMaskModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SpriteShapeModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.StreamingModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SubsystemsModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TerrainModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TextCoreModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TextRenderingModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TilemapModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UI.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UIElementsModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UIModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UNETModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityConnectModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VehiclesModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VFXModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VideoModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VRModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.WindModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.XR.LegacyInputHelpers.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.XRModule.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Utilla.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Valve.Newtonsoft.Json.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/websocket-sharp.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/AstarPathfindingProject.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.Serialization.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.OdinInspector.Attributes.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Assembly-CSharp-firstpass.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.Mathematics.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Oculus.Platform.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Backtrace.Unity.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/System.Xml.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.Ionic.Zip.Reduced.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.ClipperLib.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.Poly2Tri.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.Serialization.Config.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.Utilities.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/DevExpress.Data.v22.2.xml
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.AssemblyReference.cache
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.CoreCompileInputs.cache
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.CopyComplete
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.dll
+C:/Users/liamg/Downloads/ColossalCheatMenuV2-main (1)/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.pdb
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/ColossalCheatMenuV2.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/ColossalCheatMenuV2.pdb
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/0Harmony.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Assembly-CSharp.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/BepInEx.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/BepInEx.Harmony.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/BepInEx.Preloader.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/HarmonyXInterop.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Mono.Cecil.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Mono.Security.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/MonoMod.RuntimeDetour.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/MonoMod.Utils.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Oculus.VR.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Photon3Unity3D.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonChat.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonRealtime.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonUnityNetworking.Demos.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonUnityNetworking.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonUnityNetworking.Utilities.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonVoice.API.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonVoice.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonVoice.PUN.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonWebSocket.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PlayFab.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/SteamVR.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/System.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.Animation.Rigging.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.Burst.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.InputSystem.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.XR.Interaction.Toolkit.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AccessibilityModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AIModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AndroidJNIModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AnimationModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ARModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AssetBundleModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AudioModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ClothModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ClusterInputModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ClusterRendererModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.CoreModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.CrashReportingModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.DirectorModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.DSPGraphModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.GameCenterModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.GridModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ImageConversionModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.IMGUIModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.InputLegacyModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.InputModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.JSONSerializeModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.LocalizationModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ParticleSystemModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.PerformanceReportingModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.Physics2DModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.PhysicsModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ScreenCaptureModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SharedInternalsModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SpatialTracking.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SpriteMaskModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SpriteShapeModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.StreamingModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SubsystemsModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TerrainModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TextCoreModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TextRenderingModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TilemapModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UI.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UIElementsModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UIModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UNETModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityConnectModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VehiclesModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VFXModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VideoModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VRModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.WindModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.XR.LegacyInputHelpers.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.XRModule.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Valve.Newtonsoft.Json.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/websocket-sharp.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/System.Xml.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.AssemblyReference.cache
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.CoreCompileInputs.cache
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.CopyComplete
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.pdb
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/AstarPathfindingProject.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.Serialization.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.OdinInspector.Attributes.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Oculus.Platform.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Assembly-CSharp-firstpass.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.Mathematics.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Backtrace.Unity.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.Ionic.Zip.Reduced.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.ClipperLib.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.Poly2Tri.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.Serialization.Config.dll
+C:/Users/liamg/source/repos/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.Utilities.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/ColossalCheatMenuV2.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/ColossalCheatMenuV2.pdb
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Assembly-CSharp.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/AstarPathfindingProject.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.OdinInspector.Attributes.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Oculus.Platform.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Assembly-CSharp-firstpass.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.Mathematics.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Backtrace.Unity.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.Ionic.Zip.Reduced.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.ClipperLib.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.Poly2Tri.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/System.Xml.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.AssemblyReference.cache
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.CoreCompileInputs.cache
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.CopyComplete
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.dll
+C:/Users/hailh/Downloads/ColossalCheatMenuV2-main/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.pdb
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.AssemblyReference.cache
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.CoreCompileInputs.cache
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.pdb
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/ColossalCheatMenuV2.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/ColossalCheatMenuV2.pdb
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/0Harmony.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Assembly-CSharp-firstpass.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Assembly-CSharp.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/BepInEx.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/BepInEx.Harmony.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/BepInEx.Preloader.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/GTAG_NotificationLib.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/HarmonyXInterop.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Mono.Cecil.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Mono.Cecil.Mdb.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/MonoMod.RuntimeDetour.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/MonoMod.Utils.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Photon3Unity3D.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonChat.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonRealtime.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonUnityNetworking.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonUnityNetworking.Utilities.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonVoice.API.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonVoice.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PhotonVoice.PUN.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/PlayFab.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/SteamVR.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/SteamVR_Actions.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.InputSystem.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.CoreModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.InputLegacyModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.InputModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TextCoreModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TextRenderingModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UI.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UIElementsModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UIModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.XRModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AudioModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ParticleSystemModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/AstarPathfindingProject.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AnimationModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Sirenix.OdinInspector.Attributes.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.DirectorModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Oculus.VR.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.XR.Interaction.Toolkit.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AIModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AndroidJNIModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VideoModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Oculus.Platform.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.Burst.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Unity.Animation.Rigging.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.JSONSerializeModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VRModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SubsystemsModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.IMGUIModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Backtrace.Unity.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.Physics2DModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Valve.Newtonsoft.Json.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VehiclesModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ImageConversionModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SpatialTracking.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SharedInternalsModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.DSPGraphModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AccessibilityModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityConnectModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityAnalyticsModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.PerformanceReportingModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.AssetBundleModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ClothModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ClusterInputModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ClusterRendererModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.CrashReportingModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TilemapModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TerrainModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.VFXModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.GridModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.LocalizationModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestAudioModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestTextureModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.UnityWebRequestWWWModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ScreenCaptureModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.GameCenterModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SpriteMaskModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.StreamingModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.TerrainPhysicsModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.SpriteShapeModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.WindModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/UnityEngine.ARModule.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.Ionic.Zip.Reduced.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.ClipperLib.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/bin/x64/Release/Pathfinding.Poly2Tri.dll
+/home/xd/Documents/Monkey Game/ColossalCheatMenuV2-main/ColossalCheatMenuV2/ColossalCheatMenuV2/obj/x64/Release/ColossalCheatMenuV2.csproj.CopyComplete
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\ColossalCheatMenuV2.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\ColossalCheatMenuV2.pdb
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\0Harmony.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Assembly-CSharp-firstpass.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Assembly-CSharp.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\BepInEx.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\BepInEx.Harmony.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\BepInEx.Preloader.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\GTAG_NotificationLib.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\HarmonyXInterop.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Mono.Cecil.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Mono.Cecil.Mdb.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\MonoMod.RuntimeDetour.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\MonoMod.Utils.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Photon3Unity3D.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\PhotonChat.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\PhotonRealtime.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\PhotonUnityNetworking.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\PhotonUnityNetworking.Utilities.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\PhotonVoice.API.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\PhotonVoice.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\PhotonVoice.PUN.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\PlayFab.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\SteamVR.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\SteamVR_Actions.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.InputSystem.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.CoreModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.InputLegacyModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.InputModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.TextCoreModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.TextRenderingModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UI.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UIElementsModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UIModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.XRModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.AnimationModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.Physics2DModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.IMGUIModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.AndroidJNIModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UnityWebRequestModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Valve.Newtonsoft.Json.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.ParticleSystemModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.AIModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.VehiclesModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.ImageConversionModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.SpatialTracking.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.VRModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.JSONSerializeModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.SharedInternalsModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.DSPGraphModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.AccessibilityModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UnityConnectModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.PerformanceReportingModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.AssetBundleModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.ClothModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.ClusterInputModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.ClusterRendererModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.CrashReportingModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.TilemapModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.TerrainModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.VFXModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.VideoModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.GridModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.SubsystemsModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.LocalizationModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.DirectorModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.ScreenCaptureModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.GameCenterModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.SpriteMaskModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.StreamingModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.SpriteShapeModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.WindModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.ARModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\AstarPathfindingProject.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Sirenix.OdinInspector.Attributes.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Oculus.VR.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.XR.Interaction.Toolkit.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Oculus.Platform.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.Burst.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.Animation.Rigging.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Backtrace.Unity.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Pathfinding.ClipperLib.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Pathfinding.Poly2Tri.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\obj\x64\Release\ColossalCheatMenuV2.csproj.AssemblyReference.cache
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\obj\x64\Release\ColossalCheatMenuV2.csproj.CoreCompileInputs.cache
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\obj\x64\Release\ColossalCheatMenuV2.csproj.CopyComplete
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\obj\x64\Release\ColossalCheatMenuV2.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\obj\x64\Release\ColossalCheatMenuV2.pdb
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\netstandard.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.TextMeshPro.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Cinemachine.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.Mathematics.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\VoiceSDK.Dictation.Runtime.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.XR.CoreUtils.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.Timeline.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.Burst.Unsafe.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Facebook.WitAI.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Facebook.Wit.Dictation.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\AssistantCoreSDKRuntime.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Facebook.Wit.Conduit.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\LitJson.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Fusion.Runtime.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Fusion.Sockets.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Fusion.Realtime.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\PhotonVoice.Fusion.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Fusion.Common.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\websocket-sharp.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.Collections.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\UnityEngine.PropertiesModule.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\NanoSockets.dll
+C:\Users\tiltl\Documents\Games\Monkey Game\ColossalCheatMenuV2-main\ColossalCheatMenuV2\ColossalCheatMenuV2\bin\x64\Release\Unity.Collections.LowLevel.ILSupport.dll
