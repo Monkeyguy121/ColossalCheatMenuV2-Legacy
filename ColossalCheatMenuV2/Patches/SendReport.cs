@@ -9,7 +9,7 @@ using UnityEngine;
 
 namespace Colossal.Patches
 {
-    [HarmonyPatch(typeof(GorillaNot), "SendReport")]
+    [HarmonyPatch(typeof(MonkeAgent), "SendReport")]
     internal class SendReport
     {
         private static void Prefix(string susReason, string susId, string susNick)

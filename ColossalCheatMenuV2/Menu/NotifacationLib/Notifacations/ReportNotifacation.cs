@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 
 namespace Colossal.Menu.ClientHub.Notifacation {
-    [HarmonyPatch(typeof(GorillaNot), "SendReport")]
+    [HarmonyPatch(typeof(MonkeAgent), "SendReport")]
     internal class ReportNotifacation {
         private static List<string> notifiedPlayers = new List<string>();
 

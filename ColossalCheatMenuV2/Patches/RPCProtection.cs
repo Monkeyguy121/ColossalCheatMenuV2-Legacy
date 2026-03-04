@@ -16,9 +16,9 @@ namespace Colossal.Patches
         {
             try
             {
-                GorillaNot.instance.rpcErrorMax = int.MaxValue;
-                GorillaNot.instance.rpcCallLimit = int.MaxValue;
-                GorillaNot.instance.logErrorMax = int.MaxValue;
+                MonkeAgent.instance.rpcErrorMax = int.MaxValue;
+                MonkeAgent.instance.rpcCallLimit = int.MaxValue;
+                MonkeAgent.instance.logErrorMax = int.MaxValue;
 
                 PhotonNetwork.MaxResendsBeforeDisconnect = int.MaxValue;
                 PhotonNetwork.QuickResends = int.MaxValue;
@@ -28,7 +28,7 @@ namespace Colossal.Patches
                 PhotonNetwork.RemoveBufferedRPCs(GorillaTagger.Instance.myVRRig.ViewID, null, null);
                 PhotonNetwork.RemoveRPCsInGroup(int.MaxValue);
                 PhotonNetwork.SendAllOutgoingCommands();
-                GorillaNot.instance.OnPlayerLeftRoom(PhotonNetwork.LocalPlayer);
+                MonkeAgent.instance.OnPlayerLeftRoom(PhotonNetwork.LocalPlayer);
             }
             catch (Exception e)
             {
