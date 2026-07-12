@@ -34,7 +34,7 @@ namespace Colossal.Mods
                 return;
             }
 
-            GorillaTagger.Instance.tagCooldown = 0f;
+            /*GorillaTagger.Instance.tagCooldown = 0f;
             GorillaLocomotion.GTPlayer.Instance.teleportThresholdNoVel = int.MaxValue;
 
             foreach (VRRig rig in GorillaParent.instance.vrrigs)
@@ -53,24 +53,24 @@ namespace Colossal.Mods
 
                 DrawLine(rig);
                 break; 
-            }
+            }*/
         }
 
         private void DrawLine(VRRig target)
         {
             if (radiusLine == null)
             {
-                GameObject obj = new GameObject("TagAllLine");
+                /*GameObject obj = new GameObject("TagAllLine");
                 radiusLine = obj.AddComponent<LineRenderer>();
                 radiusLine.positionCount = 2;
                 radiusLine.startWidth = 0.05f;
                 radiusLine.endWidth = 0.05f;
                 radiusLine.material = lineMaterial;
-                radiusLine.useWorldSpace = true;
+                radiusLine.useWorldSpace = true;*/
             }
 
-            radiusLine.SetPosition(0, target.transform.position);
-            radiusLine.SetPosition(1, GorillaTagger.Instance.rightHandTransform.position);
+            //radiusLine.SetPosition(0, target.transform.position);
+            //radiusLine.SetPosition(1, GorillaTagger.Instance.rightHandTransform.position);
         }
     }
 }

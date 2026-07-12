@@ -212,7 +212,8 @@ namespace Colossal.Menu {
                     Sky[4] = new MenuOption { DisplayName = "Green", _type = "button", AssociatedString = "greensky" };
                     Sky[5] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
 
-                    Player = new MenuOption[11];
+                    // Change Player array size from 9 to 10
+                    Player = new MenuOption[10];
                     Player[0] = new MenuOption { DisplayName = "NoFinger", _type = "toggle", AssociatedBool = false };
                     Player[1] = new MenuOption { DisplayName = "TagGun", _type = "toggle", AssociatedBool = false };
                     Player[2] = new MenuOption { DisplayName = "[BROKEN] LegMod", _type = "toggle", AssociatedBool = false };
@@ -220,10 +221,9 @@ namespace Colossal.Menu {
                     Player[4] = new MenuOption { DisplayName = "GhostMonkey", _type = "toggle", AssociatedBool = false };
                     Player[5] = new MenuOption { DisplayName = "InvisMonkey", _type = "toggle", AssociatedBool = false };
                     Player[6] = new MenuOption { DisplayName = "TagAura", _type = "STRINGslider", StringArray = new string[] { "Off", "Colossal", "Ghost", "Blatant" } };
-                    Player[7] = new MenuOption { DisplayName = "TagAll", _type = "toggle", AssociatedBool = false };
-                    Player[8] = new MenuOption { DisplayName = "[BROKEN] FreezeMonke", _type = "toggle", AssociatedBool = false };
-                    Player[9] = new MenuOption { DisplayName = "Desync", _type = "toggle", AssociatedBool = false };
-                    Player[10] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
+                    Player[7] = new MenuOption { DisplayName = "Desync", _type = "toggle", AssociatedBool = false };
+                    Player[8] = new MenuOption { DisplayName = "TagAll", _type = "toggle", AssociatedBool = false };
+                    Player[9] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
 
                     Modders = new MenuOption[5];
                     Modders[0] = new MenuOption { DisplayName = "Break NameTags", _type = "toggle", AssociatedBool = false };
@@ -518,9 +518,8 @@ namespace Colossal.Menu {
                 PluginConfig.ghostmonkey = Player[4].AssociatedBool;
                 PluginConfig.invismonkey = Player[5].AssociatedBool;
                 PluginConfig.tagaura = Player[6].stringsliderind;
-                PluginConfig.tagall = Player[7].AssociatedBool;
-                PluginConfig.freezemonkey = Player[8].AssociatedBool;
-                PluginConfig.desync = Player[9].AssociatedBool;
+                PluginConfig.desync = Player[7].AssociatedBool;
+                PluginConfig.tagall = Player[8].AssociatedBool;
 
                 //Modders
                 PluginConfig.breaknametags = Modders[0].AssociatedBool;
@@ -531,7 +530,7 @@ namespace Colossal.Menu {
                 PluginConfig.MenuColour = Settings[0].stringsliderind;
                 PluginConfig.MenuPos = Settings[1].stringsliderind;
 
-                string ToDraw = Plugin.sussy ? $"<color={MenuColour}>SUSSY : {MenuState}</color>\n" : $"<color={MenuColour}>COLOSSAL : {MenuState}</color>\n";
+                string ToDraw = Plugin.sussy ? $"<color={MenuColour}>SUSSY : {MenuState}</color>\n" : $"<color={MenuColour}>COLOSSAL: LEGACY : {MenuState}</color>\n";
                 int i = 0;
                 if (CurrentViewingMenu != null)
                 {

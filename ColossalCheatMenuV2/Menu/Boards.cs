@@ -39,7 +39,7 @@ namespace ColossalCheatMenuV2.Menu
         }
         public void Update()
         {
-            coctext = $"<color=#00ffff>Thank you for using CCMV2, the successor to the</color><color={textcolour}> first cheat menu!</color><color=#00ffff> CCMV2 will be getting frequently updated with new features/FUD. \n\nContributors:\n</color><color={textcolour}>ColossusYTTV: Menu Maker/Mod Creator\nLars/LHAX: Menu Base</color><color=#00ffff>\nWM: No Fingers\nStarry: Creeper Monke/Tester\nAntic/ChatGPT: Tester\nCunzaki/Plinko: Tester\nBlobFish: DisableRig\n\nCurrent Menu Version: {Plugin.version}</color>";
+            coctext = $"<color=#00ffff>Thank you for using CCMV2 LEGACY, the successor to the</color><color={textcolour}> first cheat menu!</color><color=#00ffff> CCMV2 will be getting frequently updated with new features/FUD. \n\nContributors:\n</color><color={textcolour}>ColossusYTTV: Menu Maker/Mod Creator\nLars/LHAX: Menu Base</color><color=#00ffff>\nWM: No Fingers\nStarry: Creeper Monke/Tester\nAntic/ChatGPT: Tester\nCunzaki/Plinko: Tester\nBlobFish: DisableRig\nnovaissilly: SourceCode\nCurrent Menu Version: {Plugin.version}</color>";
 
             if (GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/") != null)
             {
