@@ -4,7 +4,7 @@ using HarmonyLib;
 
 namespace Colossal.Patches
 {
-    //[HarmonyPatch(typeof(GorillaComputer), "GeneralFailureMessage")]
+   // [HarmonyPatch(typeof(GorillaComputer), "GeneralFailureMessage")]
     public class GeneralFailMessage
     {
         [HarmonyPrefix]

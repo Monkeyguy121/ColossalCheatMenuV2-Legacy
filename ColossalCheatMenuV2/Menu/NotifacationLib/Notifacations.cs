@@ -16,7 +16,7 @@ namespace Colossal.Menu.ClientHub {
     public class Notifacations : MonoBehaviour {
         private bool loaded = false;
 
-        int NotificationDecayTime = 150;
+        int NotificationDecayTime = 250;
         int NotificationDecayTimeCounter = 0;
         public static int NoticationThreshold = 5;
         string[] Notifilines;

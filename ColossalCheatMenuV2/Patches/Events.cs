@@ -12,7 +12,7 @@ using UnityEngine;
 
 namespace Colossal.Patches
 {
-    //[HarmonyPatch(typeof(PhotonNetwork), "RaiseEvent")]
+  //  [HarmonyPatch(typeof(PhotonNetwork), "RaiseEvent")]
     internal class Events
     {
         private static bool Prefix(byte eventCode, object eventContent, RaiseEventOptions raiseEventOptions, SendOptions sendOptions)

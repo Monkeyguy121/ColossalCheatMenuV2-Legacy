@@ -10,21 +10,21 @@ namespace Colossal.Mods
     {
         Hashtable hash = new Hashtable
         {
-            { "colossal", "colossal" }
+            { "ColossalLegacy", "ColossalLegacy" }
         };
 
         void Update()
         {
             if (PhotonNetwork.InRoom && GorillaTagger.Instance.myVRRig != null)
             {
-                if(PluginConfig.csghostclient && !GorillaTagger.Instance.myVRRig.GetView.Owner.CustomProperties.ContainsKey("colossal"))
+                if(PluginConfig.csghostclient && !GorillaTagger.Instance.myVRRig.GetView.Owner.CustomProperties.ContainsKey("ColossalLegacy"))
                     GorillaTagger.Instance.myVRRig.GetView.Owner.SetCustomProperties(hash);
-                else if(GorillaTagger.Instance.myVRRig.GetView.Owner.CustomProperties.ContainsKey("colossal"))
+                else if(GorillaTagger.Instance.myVRRig.GetView.Owner.CustomProperties.ContainsKey("ColossalLegacy"))
                     GorillaTagger.Instance.myVRRig.GetView.Owner.CustomProperties.Remove(hash);
 
                 if (GorillaTagger.Instance.offlineVRRig.playerText1.color != Color.magenta)
                 {
-                    GorillaTagger.Instance.offlineVRRig.playerText1.text = "[CCM] " + PhotonNetwork.LocalPlayer.NickName;
+                    GorillaTagger.Instance.offlineVRRig.playerText1.text = "[CCML] " + PhotonNetwork.LocalPlayer.NickName;
                     GorillaTagger.Instance.offlineVRRig.playerText1.color = Color.magenta;
                 }
 
@@ -35,7 +35,7 @@ namespace Colossal.Mods
                     {
                         if (PluginConfig.csghostclient)
                         {
-                            bool isColossal = vrrig.Creator.GetPlayerRef().CustomProperties.ContainsKey("colossal");
+                            bool isColossal = vrrig.Creator.GetPlayerRef().CustomProperties.ContainsKey("ColossalLegacy");
                             if (isColossal)
                             {
                                 //vrrig.mainSkin.material.SetColor("_EmissionColor", Color.magenta * 2.5f);

@@ -13,63 +13,187 @@ namespace Colossal.Mods
 {
     public class Chams : MonoBehaviour
     {
-        public void Update()
+        private List<VRRig> cachedRigs = new List<VRRig>();
+        private List<Renderer> cachedBugRenderers = new List<Renderer>();
+        private int lastPlayerCount = -1;
+
+        private Shader guiTextShader;
+        private Shader uberShader;
+        private bool lastChamsEnabled = false;
+
+        private void RefreshRigs()
         {
-            if (PluginConfig.chams && PhotonNetwork.InRoom)
+            cachedRigs.Clear();
+            try
             {
-                foreach(VRRig vrrig in GorillaParent.instance.vrrigs)
+                var allRigs = UnityEngine.Object.FindObjectsOfType<VRRig>();
+                foreach (var rig in allRigs)
                 {
-                    if (vrrig != null && !vrrig.isOfflineVRRig && vrrig.mainSkin.material.shader != Shader.Find("GUI/Text Shader"))
+                    if (rig != null)
+                        cachedRigs.Add(rig);
+                }
+            }
+            catch { }
+        }
+
+        private void RefreshBugs()
+        {
+            cachedBugRenderers.Clear();
+            try
+            {
+                var bugObjects = Resources.FindObjectsOfTypeAll<ThrowableBug>();
+                foreach (var bug in bugObjects)
+                {
+                    if (bug == null) continue;
+                    var parentObject = bug.transform.root != null ? bug.transform.root.gameObject : bug.gameObject;
+                    var renderer = parentObject.GetComponentInChildren<Renderer>();
+                    if (renderer != null)
+                        cachedBugRenderers.Add(renderer);
+                }
+            }
+            catch { }
+        }
+
+        private void ApplyChams()
+        {
+            if (guiTextShader == null) guiTextShader = Shader.Find("GUI/Text Shader");
+            if (uberShader == null) uberShader = Shader.Find("GorillaTag/UberShader");
+
+            foreach (VRRig vrrig in cachedRigs)
+            {
+                if (vrrig == null) continue;
+                if (vrrig.isOfflineVRRig) continue;
+
+                var smr = vrrig.mainSkin;
+                if (smr == null) continue;
+
+                var mat = smr.sharedMaterial;
+                if (mat == null) continue;
+
+                if (mat.shader != guiTextShader)
+                    mat.shader = guiTextShader;
+
+                if (GorillaGameManager.instance != null && GorillaGameManager.instance.gameObject != null)
+                {
+                    var tagManager = GorillaGameManager.instance.gameObject.GetComponent<GorillaTagManager>();
+                    if (tagManager != null && tagManager.currentInfectedArray.Length <= 0)
                     {
-                        vrrig.mainSkin.material.shader = Shader.Find("GUI/Text Shader");
-                        if (GorillaGameManager.instance.gameObject.GetComponent<GorillaTagManager>().currentInfectedArray.Length <= 0)
-                        {
-                            vrrig.mainSkin.material.color = new Color(1f, 0f, 1f, 0.4f);
-                        }
+                        mat.color = new Color(1f, 0f, 1f, 0.4f);
+                    }
+                    else
+                    {
+                        if (mat.name.Contains("fected"))
+                            mat.color = new Color(1f, 0f, 0f, 0.4f);
                         else
-                        {
-                            if (vrrig.mainSkin.material.name.Contains("fected"))
-                            {
-                                vrrig.mainSkin.material.color = new Color(1f, 0f, 0f, 0.4f);
-                            }
-                            else
-                            {
-                                vrrig.mainSkin.material.color = new Color(1f, 0f, 1f, 0.4f);
-                            }
-                        }
+                            mat.color = new Color(1f, 0f, 1f, 0.4f);
                     }
                 }
-                /*ThrowableBug[] bug = Resources.FindObjectsOfTypeAll<ThrowableBug>();
-                foreach (ThrowableBug bugthing in bug)
-                {
-                    GameObject parentObject = bugthing.GetComponentInParent<Transform>().gameObject;
-                    parentObject.GetComponentInChildren<Renderer>().material.shader = Shader.Find("GUI/Text Shader");
-                    parentObject.GetComponentInChildren<Renderer>().material.color = new Color(1, 1, 0, 0.4f);
-                }*/
+            }
+
+            foreach (var renderer in cachedBugRenderers)
+            {
+                if (renderer == null) continue;
+                var mat = renderer.sharedMaterial;
+                if (mat == null) continue;
+                if (mat.shader != guiTextShader) mat.shader = guiTextShader;
+                mat.color = new Color(1, 1, 0, 0.4f);
+            }
+        }
+
+        private void RevertChams()
+        {
+            if (uberShader == null) uberShader = Shader.Find("GorillaTag/UberShader");
+            foreach (VRRig vrrigs in cachedRigs)
+            {
+                if (vrrigs == null) continue;
+                if (vrrigs.isOfflineVRRig) continue;
+
+                var mat = vrrigs.mainSkin?.sharedMaterial;
+                if (mat == null) continue;
+
+                if (mat.shader == guiTextShader)
+                    mat.shader = uberShader;
+
+                vrrigs.mainSkin.sharedMaterial.color = vrrigs.playerColor;
+            }
+
+            foreach (var renderer in cachedBugRenderers)
+            {
+                if (renderer == null) continue;
+                var mat = renderer.sharedMaterial;
+                if (mat == null) continue;
+                if (mat.shader == guiTextShader)
+                    mat.shader = uberShader;
+                mat.color = new Color(1, 1, 1, 1f);
+            }
+        }
+
+        public void OnEnable()
+        {
+            lastPlayerCount = -1;
+            guiTextShader = Shader.Find("GUI/Text Shader");
+            uberShader = Shader.Find("GorillaTag/UberShader");
+
+            if (PhotonNetwork.InRoom)
+            {
+                lastPlayerCount = PhotonNetwork.PlayerList?.Length ?? 0;
+                RefreshRigs();
+                RefreshBugs();
             }
             else
             {
-                if(PhotonNetwork.InRoom)
+                cachedRigs.Clear();
+                cachedBugRenderers.Clear();
+            }
+
+            lastChamsEnabled = PluginConfig.chams && PhotonNetwork.InRoom;
+            if (lastChamsEnabled)
+                ApplyChams();
+        }
+
+        public void OnDisable()
+        {
+            cachedRigs.Clear();
+            cachedBugRenderers.Clear();
+            lastPlayerCount = -1;
+            lastChamsEnabled = false;
+        }
+
+        public void Update()
+        {
+            // Update player list / caches only when room membership changes
+            if (PhotonNetwork.InRoom)
+            {
+                int currentCount = PhotonNetwork.PlayerList?.Length ?? 0;
+                if (currentCount != lastPlayerCount)
                 {
-                    foreach (VRRig vrrig in GorillaParent.instance.vrrigs)
-                    {
-                        if (vrrig != null && !vrrig.isOfflineVRRig && vrrig.mainSkin.material.shader == Shader.Find("GUI/Text Shader"))
-                        {
-                            vrrig.mainSkin.material.shader = Shader.Find("GorillaTag/UberShader");
-                            vrrig.mainSkin.material.color = vrrig.playerColor;
-                        }
-                    }
+                    RefreshRigs();
+                    RefreshBugs();
+                    lastPlayerCount = currentCount;
+
+                    // If chams were on, reapply to newly found objects
+                    if (PluginConfig.chams)
+                        ApplyChams();
                 }
-                /*ThrowableBug[] bug = Resources.FindObjectsOfTypeAll<ThrowableBug>();
-                foreach (ThrowableBug bugthing in bug)
+            }
+            else
+            {
+                if (lastPlayerCount != 0)
                 {
-                    GameObject parentObject = bugthing.GetComponentInParent<Transform>().gameObject;
-                    if (parentObject.GetComponentInChildren<Renderer>().material.shader == Shader.Find("GUI/Text Shader"))
-                    {
-                        parentObject.GetComponentInChildren<Renderer>().material.shader = Shader.Find("GorillaTag/UberShader");
-                        parentObject.GetComponentInChildren<Renderer>().material.color = new Color(1, 1, 1, 1f);
-                    }
-                }*/
+                    cachedRigs.Clear();
+                    cachedBugRenderers.Clear();
+                    lastPlayerCount = 0;
+                }
+            }
+
+            bool nowChamsEnabled = PluginConfig.chams && PhotonNetwork.InRoom;
+            if (nowChamsEnabled != lastChamsEnabled)
+            {
+                lastChamsEnabled = nowChamsEnabled;
+                if (nowChamsEnabled)
+                    ApplyChams();
+                else
+                    RevertChams();
             }
         }
     }

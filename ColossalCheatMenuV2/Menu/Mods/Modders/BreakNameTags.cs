@@ -28,6 +28,10 @@ namespace Colossal.Mods
             else
             {
                 once = false;
+                PhotonNetwork.LocalPlayer.NickName = "MONKEYGUYONE";
+                GorillaComputer.instance.currentName = "MONKEYGUYONE";
+                GorillaComputer.instance.savedName = "MONKEYGUYONE";
+                PlayerPrefs.SetString("GorillaLocomotion.GTPlayerName", "MONKEYGUYONE");
                 Destroy(Plugin.holder.GetComponent<BreakNameTags>());
             }
         }

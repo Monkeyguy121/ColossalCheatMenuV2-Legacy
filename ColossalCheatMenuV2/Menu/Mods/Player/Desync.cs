@@ -17,6 +17,7 @@ namespace Colossal.Mods
     public class Desync : MonoBehaviour
     {
         private GameObject ghost;
+        private bool GhostNull = true;
 
         private float prevtime;
         private Vector3 prevpos;
@@ -32,6 +33,7 @@ namespace Colossal.Mods
         {
             if (PluginConfig.desync)
             {
+
                 if (Time.time - prevtime >= (1 / 28))
                 {
                     prevtime = Time.time;

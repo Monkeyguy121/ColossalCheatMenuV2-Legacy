@@ -18,6 +18,7 @@ public class PluginConfig
     // Group 1
     public static bool excelfly = false;
     public static bool tfly = false;
+    public static bool noclip = false;
     public static int wallwalk = 0;
     public static int speed = 0;
     public static int speedlg = 0;
@@ -26,6 +27,7 @@ public class PluginConfig
     public static bool upsidedownmonkey = false;
     public static bool wateryair = false;
     public static bool longarms = false;
+    public static bool QuickDisc = false;
     public static bool SpinBot = false;
 
     // Group 2
@@ -58,10 +60,13 @@ public class PluginConfig
     public static bool MenuRGB = false;
 
     //group 6
-    public static bool driftmode = false;
+    public static bool driftmode1 = true;
     public static bool noti = true;
     public static bool overlay = true;
     public static bool csghostclient = true;
+    //recording
+    public static bool FirstPerson = false;
+    public static bool MuteAll = false;
 }
 
 internal class Configs : MonoBehaviour
@@ -147,6 +152,9 @@ internal class Configs : MonoBehaviour
                 PluginConfig.tagall,
                 PluginConfig.freezemonkey,
                 PluginConfig.desync,
+                //recording
+                PluginConfig.FirstPerson,
+                PluginConfig.MuteAll,
 
                 // Group 4
                 PluginConfig.breaknametags,
@@ -154,7 +162,7 @@ internal class Configs : MonoBehaviour
                 PluginConfig.pccheckbypass,
 
                 //group 5
-                PluginConfig.driftmode,
+                PluginConfig.driftmode1,
                 PluginConfig.noti,
                 PluginConfig.overlay,
                 PluginConfig.csghostclient,
@@ -223,6 +231,7 @@ internal class Configs : MonoBehaviour
             Menu.Player[7].AssociatedBool = Convert.ToBoolean(values[23]);
             Menu.Player[8].AssociatedBool = Convert.ToBoolean(values[24]);
             Menu.Player[9].AssociatedBool = Convert.ToBoolean(values[25]);
+            
 
             Menu.Modders[0].AssociatedBool = Convert.ToBoolean(values[26]);
             Menu.Modders[1].AssociatedBool = Convert.ToBoolean(values[27]);
@@ -235,6 +244,9 @@ internal class Configs : MonoBehaviour
 
             Menu.Settings[0].stringsliderind = Convert.ToInt32(values[33]);
             Menu.Settings[1].stringsliderind = Convert.ToInt32(values[34]);
+            //Recording
+            Menu.Recording[0].AssociatedBool = Convert.ToBoolean(values[35]);
+            Menu.Recording[1].AssociatedBool = Convert.ToBoolean(values[36]);
 
             Notifacations.SendNotification($"<color=blue>[CONFIG]</color> LOADED : {filePath}");
             Console.WriteLine($"loaded {filePath}");

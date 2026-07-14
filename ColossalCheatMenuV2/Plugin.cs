@@ -4,6 +4,7 @@ using Colossal.Mods;
 using Colossal.Patches;
 using ColossalCheatMenuV2.Menu;
 using ColossalOnevent;
+using BepInEx;
 using GorillaNetworking;
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 namespace Colossal {
-    //[BepInPlugin("org.ColossusYTTV.ColossalCheatMenuV2", "ColossalCheatMenuV2", "1.0.0")]
+    [BepInPlugin("org.ColossusYTTV.ColossalCheatMenuV2", "ColossalCheatMenuV2", "1.0.0")]
     public class Plugin : MonoBehaviour {
         //public static int called = 0;
         //public static float instantate = 0;
@@ -44,7 +45,7 @@ namespace Colossal {
 
         public static bool oculus = false;
 
-        public static float version = 5.1f;
+        public static float version = 1.0f;
         public static bool sussy = false;
         public static Font gtagfont;
 
@@ -59,7 +60,7 @@ namespace Colossal {
 
             Debug.Log("[COLOSSAL] Spawned Holder");
             holder = new GameObject();
-            holder.name = "Holder";
+            holder.name = "Mod Handler";
             holder.AddComponent<Boards>();
             holder.AddComponent<EventNotifacation>();
             holder.AddComponent<JoinNotifacation>();
@@ -99,13 +100,17 @@ namespace Colossal {
                 { typeof(LongArm), PluginConfig.longarms },
                 { typeof(WhyIsEveryoneLookingAtMe), PluginConfig.whyiseveryonelookingatme },
                 { typeof(ExcelFly), PluginConfig.excelfly },
+                { typeof(NoclipShittyDisable), PluginConfig.noclip },
                 { typeof(WateryAir), PluginConfig.wateryair },
                 { typeof(FreezeMonkey), PluginConfig.freezemonkey },
                 { typeof(Platforms), PluginConfig.platforms },
                 { typeof(TFly), PluginConfig.tfly },
+                { typeof(QuickDisc), PluginConfig.QuickDisc },
                 { typeof(UpsideDownMonkey), PluginConfig.upsidedownmonkey },
+                { typeof(FirstPerson), PluginConfig.FirstPerson },
                 { typeof(Chams), PluginConfig.chams },
                 { typeof(HollowBoxEsp), PluginConfig.hollowboxesp },
+                { typeof(MuteAll), PluginConfig.MuteAll },
                 { typeof(BoxEsp), PluginConfig.boxesp },
                 { typeof(CreeperMonkey), PluginConfig.creepermonkey },
                 { typeof(GhostMonkey), PluginConfig.ghostmonkey },

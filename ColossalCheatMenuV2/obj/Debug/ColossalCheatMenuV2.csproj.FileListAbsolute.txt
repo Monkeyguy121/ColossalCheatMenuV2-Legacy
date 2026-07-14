@@ -358,6 +358,6 @@ C:\Users\AMD GAMING\Documents\GitHub\ColossalCheatMenuV2-Legacy\ColossalCheatMen
 C:\Users\AMD GAMING\Documents\GitHub\ColossalCheatMenuV2-Legacy\ColossalCheatMenuV2\bin\Debug\ColossalCheatMenuV2.pdb
 C:\Users\AMD GAMING\Documents\GitHub\ColossalCheatMenuV2-Legacy\ColossalCheatMenuV2\obj\Debug\ColossalCheatMenuV2.csproj.AssemblyReference.cache
 C:\Users\AMD GAMING\Documents\GitHub\ColossalCheatMenuV2-Legacy\ColossalCheatMenuV2\obj\Debug\ColossalCheatMenuV2.csproj.CoreCompileInputs.cache
-C:\Users\AMD GAMING\Documents\GitHub\ColossalCheatMenuV2-Legacy\ColossalCheatMenuV2\obj\Debug\ColossalCheatMenuV2.csproj.CopyComplete
 C:\Users\AMD GAMING\Documents\GitHub\ColossalCheatMenuV2-Legacy\ColossalCheatMenuV2\obj\Debug\ColossalCheatMenuV2.dll
 C:\Users\AMD GAMING\Documents\GitHub\ColossalCheatMenuV2-Legacy\ColossalCheatMenuV2\obj\Debug\ColossalCheatMenuV2.pdb
+C:\Users\AMD GAMING\Documents\GitHub\ColossalCheatMenuV2-Legacy\ColossalCheatMenuV2\obj\Debug\Colossal.5E68BF29.Up2Date

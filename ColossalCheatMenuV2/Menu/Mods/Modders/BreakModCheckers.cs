@@ -23,6 +23,41 @@ namespace Colossal.Mods
                 {
                     Hashtable hash = new Hashtable();
                     hash.Add("genesis", prop);
+                    hash.Add("genesis", prop); hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop); hash.Add("genesis", prop);
+
+
+
+
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
+                    hash.Add("genesis", prop);
                     GorillaTagger.Instance.myVRRig.GetView.Controller.SetCustomProperties(hash);
                 }
             }

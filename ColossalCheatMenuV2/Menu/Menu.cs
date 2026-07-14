@@ -60,6 +60,7 @@ namespace Colossal.Menu {
         public static MenuOption[] Modders;
         public static MenuOption[] Account;
         public static MenuOption[] Settings;
+        public static MenuOption[] Recording;
 
         public static MenuOption[] Speed;
         public static MenuOption[] TagAura;
@@ -165,7 +166,7 @@ namespace Colossal.Menu {
                     //HUDObj2.transform.rotation = MainCamera.transform.rotation;
                     HUDObj2.transform.SetParent(MainCamera.transform);
 
-                    MainMenu = new MenuOption[11];
+                    MainMenu = new MenuOption[12];
                     MainMenu[0] = new MenuOption { DisplayName = "Movement", _type = "submenu", AssociatedString = "Movement" };
                     MainMenu[1] = new MenuOption { DisplayName = "Visual", _type = "submenu", AssociatedString = "Visual" };
                     MainMenu[2] = new MenuOption { DisplayName = "Player", _type = "submenu", AssociatedString = "Player" };
@@ -173,13 +174,14 @@ namespace Colossal.Menu {
                     MainMenu[4] = new MenuOption { DisplayName = "Modders", _type = "submenu", AssociatedString = "Modders" };
                     MainMenu[5] = new MenuOption { DisplayName = "Account", _type = "submenu", AssociatedString = "Account" };
                     MainMenu[6] = new MenuOption { DisplayName = "Settings", _type = "submenu", AssociatedString = "Settings" };
-                    MainMenu[7] = new MenuOption { DisplayName = "DriftMode", _type = "toggle", AssociatedBool = true };
+                    MainMenu[7] = new MenuOption { DisplayName = "Recording", _type = "submenu", AssociatedString = "Recording" };
+                    MainMenu[8] = new MenuOption { DisplayName = "DriftMode", _type = "toggle", AssociatedBool = true };
                     //MainMenu[8] = new MenuOption { DisplayName = "AntiCrash", _type = "toggle", AssociatedBool = true };
-                    MainMenu[8] = new MenuOption { DisplayName = "Notifacations", _type = "toggle", AssociatedBool = true };
-                    MainMenu[9] = new MenuOption { DisplayName = "Overlay", _type = "toggle", AssociatedBool = true };
-                    MainMenu[10] = new MenuOption { DisplayName = "CS Visuals", _type = "toggle", AssociatedBool = true };
+                    MainMenu[9] = new MenuOption { DisplayName = "Notifacations", _type = "toggle", AssociatedBool = true };
+                    MainMenu[10] = new MenuOption { DisplayName = "Overlay", _type = "toggle", AssociatedBool = true };
+                    MainMenu[11] = new MenuOption { DisplayName = "CS Visuals", _type = "toggle", AssociatedBool = true };
 
-                    Movement = new MenuOption[10];
+                    Movement = new MenuOption[11];
                     Movement[0] = new MenuOption { DisplayName = "ExcelFly", _type = "toggle", AssociatedBool = false };
                     Movement[1] = new MenuOption { DisplayName = "TFly", _type = "toggle", AssociatedBool = false };
                     Movement[2] = new MenuOption { DisplayName = "WallWalk", _type = "STRINGslider", StringArray = new string[] {"Off", "7.5", "7.9", "8.3", "8.7", "9.1", "9.5" } };
@@ -188,8 +190,10 @@ namespace Colossal.Menu {
                     Movement[5] = new MenuOption { DisplayName = "UpsideDown Monkey", _type = "toggle", AssociatedBool = false };
                     Movement[6] = new MenuOption { DisplayName = "WateryAir", _type = "toggle", AssociatedBool = false };
                     Movement[7] = new MenuOption { DisplayName = "LongArms", _type = "toggle", AssociatedBool = false };
-                    Movement[8] = new MenuOption { DisplayName = "[BROKEN] SpinBot", _type = "toggle", AssociatedBool = false };
-                    Movement[9] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
+                    Movement[8] = new MenuOption { DisplayName = "Noclip", _type = "toggle", AssociatedBool = false };
+                    Movement[9] = new MenuOption { DisplayName = "SpinBot", _type = "toggle", AssociatedBool = false };
+                    Movement[10] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
+
                     Speed = new MenuOption[4];
                     Speed[0] = new MenuOption { DisplayName = "Speed", _type = "STRINGslider", StringArray = new string[] { "Off", "7", "7.2", "7.4", "7.6", "7.8", "8", "8.2", "8.4", "8.6", "8.8", "9", "No Limit" } };
                     Speed[1] = new MenuOption { DisplayName = "Speed (LG)", _type = "STRINGslider", StringArray = new string[] { "Off", "7", "7.2", "7.4", "7.6", "7.8", "8", "8.2", "8.4", "8.6", "8.8", "9", "No Limit" } };
@@ -212,6 +216,12 @@ namespace Colossal.Menu {
                     Sky[4] = new MenuOption { DisplayName = "Green", _type = "button", AssociatedString = "greensky" };
                     Sky[5] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
 
+                    //Recoring QOL
+                    Recording = new MenuOption[3];
+                    Recording[0] = new MenuOption { DisplayName = "First Person Camera", _type = "toggle", AssociatedBool = false };
+                    Recording[1] = new MenuOption { DisplayName = "MuteAll", _type = "toggle", AssociatedBool = false };
+                    Recording[2] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
+
                     // Change Player array size from 9 to 10
                     Player = new MenuOption[10];
                     Player[0] = new MenuOption { DisplayName = "NoFinger", _type = "toggle", AssociatedBool = false };
@@ -225,12 +235,13 @@ namespace Colossal.Menu {
                     Player[8] = new MenuOption { DisplayName = "TagAll", _type = "toggle", AssociatedBool = false };
                     Player[9] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
 
-                    Modders = new MenuOption[5];
+                    Modders = new MenuOption[6];
                     Modders[0] = new MenuOption { DisplayName = "Break NameTags", _type = "toggle", AssociatedBool = false };
                     Modders[1] = new MenuOption { DisplayName = "Break ModCheckers", _type = "toggle", AssociatedBool = false };
                     Modders[2] = new MenuOption { DisplayName = "No Snitch", _type = "button", AssociatedString = "nosnitch" };
                     Modders[3] = new MenuOption { DisplayName = "Pc Check Bypass", _type = "toggle", AssociatedBool = false };
-                    Modders[4] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
+                    Modders[4] = new MenuOption { DisplayName = "Quick Disc", _type = "toggle", AssociatedBool = false };
+                    Modders[5] = new MenuOption { DisplayName = "Back", _type = "submenu", AssociatedString = "Back" };
 
                     Computer = new MenuOption[8];
                     Computer[0] = new MenuOption { DisplayName = "Disconnect", _type = "button", AssociatedString = "disconnect" };
@@ -374,11 +385,13 @@ namespace Colossal.Menu {
                         UpdateMenuState(new MenuOption(), null, null);
                     }
 
-
-
                     bool rightGrab = ControllerInputPoller.instance.rightGrab;
 
-                    if (!PluginConfig.driftmode)
+              //      Vector2 rightJoystickAxis = SteamVR_Actions.gorillaTag_RightJoystick2DAxis.GetAxis(SteamVR_Input_Sources.RightHand);
+
+                //    bool rightGrab = ControllerInputPoller.instance.rightGrab;
+
+                    if (!PluginConfig.driftmode1)
                     {
                         Vector2 rightJoystickAxis = SteamVR_Actions.gorillaTag_RightJoystick2DAxis.GetAxis(SteamVR_Input_Sources.RightHand);
                         if (rightJoystickAxis.y >= 0.7f && !Menu.inputcooldown)
@@ -466,6 +479,7 @@ namespace Colossal.Menu {
                         {
                             if ((rightGrab && !Menu.inputcooldown))
                             {
+                                Menu.UpdateMenuState(new MenuOption(), null, null);
                                 if (CurrentViewingMenu[SelectedOptionIndex].stringsliderind == 0)
                                     CurrentViewingMenu[SelectedOptionIndex].stringsliderind = CurrentViewingMenu[SelectedOptionIndex].StringArray.Count() - 1;
                                 else
@@ -484,7 +498,7 @@ namespace Colossal.Menu {
                     }
                 }
                 //DriftMode
-                PluginConfig.driftmode = MainMenu[7].AssociatedBool;
+                PluginConfig.driftmode1 = MainMenu[8].AssociatedBool;
                 //PluginConfig.anticrash = MainMenu[8].AssociatedBool;
                 PluginConfig.noti = MainMenu[8].AssociatedBool;
                 PluginConfig.overlay = MainMenu[9].AssociatedBool;
@@ -501,7 +515,8 @@ namespace Colossal.Menu {
                 PluginConfig.upsidedownmonkey = Movement[5].AssociatedBool;
                 PluginConfig.wateryair = Movement[6].AssociatedBool;
                 PluginConfig.longarms = Movement[7].AssociatedBool;
-                PluginConfig.SpinBot = Movement[8].AssociatedBool;
+                PluginConfig.noclip = Movement[8].AssociatedBool;
+                PluginConfig.SpinBot = Movement[9].AssociatedBool;
 
                 //Visual
                 PluginConfig.chams = Visual[0].AssociatedBool;
@@ -525,10 +540,15 @@ namespace Colossal.Menu {
                 PluginConfig.breaknametags = Modders[0].AssociatedBool;
                 PluginConfig.breakmodcheckers = Modders[1].AssociatedBool;
                 PluginConfig.pccheckbypass = Modders[3].AssociatedBool;
+                PluginConfig.QuickDisc = Modders[4].AssociatedBool;
 
                 //Settings
                 PluginConfig.MenuColour = Settings[0].stringsliderind;
                 PluginConfig.MenuPos = Settings[1].stringsliderind;
+
+                //Recording
+                PluginConfig.FirstPerson = Recording[0].AssociatedBool;
+                PluginConfig.MuteAll = Recording[1].AssociatedBool;
 
                 string ToDraw = Plugin.sussy ? $"<color={MenuColour}>SUSSY : {MenuState}</color>\n" : $"<color={MenuColour}>COLOSSAL: LEGACY : {MenuState}</color>\n";
                 int i = 0;
@@ -640,9 +660,15 @@ namespace Colossal.Menu {
                             CurrentViewingMenu = Account;
                             Debug.Log("<color=magenta>Account...</color>");
                         }
-                        if (option.AssociatedString == "Settings") {
+                        if (option.AssociatedString == "Settings")
+                        {
                             CurrentViewingMenu = Settings;
                             Debug.Log("<color=magenta>Settings...</color>");
+                        }
+                        if (option.AssociatedString == "Recording")
+                        {
+                            CurrentViewingMenu = Recording;
+                            Debug.Log("<color=magenta>Recording...</color>");
                         }
                         if (option.AssociatedString == "DriftMode") {
                             CurrentViewingMenu = Account;
